@@ -1,0 +1,14 @@
+.btn-design {
+  height: 26px;
+  width: 55px;
+  background-color: #2dc2bb;
+  font-family: 'Roboto';
+  font-size: 14px;
+  border-radius: 6px;
+  color: #ffffff;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
